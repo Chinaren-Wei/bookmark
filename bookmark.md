@@ -121,6 +121,16 @@
 [TarsGo 性能提升之路-分布式系统知识](https://mp.weixin.qq.com/s/yTNSCTOvSsBZVYOKoedPpw "TarsGo 性能提升之路")
 
 
+[Python 2018 总结](https://annual2018.pycourses.com/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io#12 "Python 2018 总结")
+
+
+
+[2018 架构师文章](https://mp.weixin.qq.com/s/9tomsZiPy9MmNCDU_Tkzng "2018 架构师文章总结")
+
+
+[go-internals 实现](https://tiancaiamao.gitbooks.io/go-internals/content/zh/02.3.html "go-internals 实现")
+
+
 
 
 
