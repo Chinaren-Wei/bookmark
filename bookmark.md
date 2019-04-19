@@ -105,6 +105,8 @@
 
 
 
+【ElasticSearch 性能调优】(https://mp.weixin.qq.com/s/MqK36Ah1lhbYO1WKEC60zw “ElasticSearch 性能调优”)
+
 
 ### nginx 请求 merge
 
@@ -131,30 +133,100 @@
 [go-internals 实现](https://tiancaiamao.gitbooks.io/go-internals/content/zh/02.3.html "go-internals 实现")
 
 
+[go-slice 实现](https://halfrost.com/go_slice/ "go slice 实现")
+
+
+[高质量的 go blog](https://halfrost.com "高质量的 go blog")
+
+
+	https://halfrost.com/go_command/
+
+
+	http://www.skywind.me/blog/
+
+	# 解决 slave 过多问题。利用 raft 协议分发 master 的 bin-log
+	https://github.com/flike/kingbus
+	
+	# golang micro 微服务框架
+	https://github.com/micro/micro
+	
+	# golang unsafe pointer
+	https://gocn.vip/article/1077
+
+
+	# 微服务跟踪技术
+	http://lidawn.github.io/2018/12/26/distribute-tracing/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 
 
+go rproxy
+https://github.com/ying32/rproxy
+
+### hbase 相关
+
+[hbase 基础概念](http://www.nosqlnotes.com/technotes/hbase/hbase-rowkey/ "hbase 基础概念")
+
+[HBase系统架构与存储格式](http://trumandu.github.io/2016/06/14/HBase%E7%B3%BB%E7%BB%9F%E6%9E%B6%E6%9E%84%E4%B8%8E%E5%AD%98%E5%82%A8%E6%A0%BC%E5%BC%8F/ "HBase系统架构与存储格式")
+
+
+[Hbase架构与原理](https://zhuanlan.zhihu.com/p/29674705 "Hbase架构与原理")
 
 
 
+[Hbase切分策略](http://hbasefly.com/2017/08/27/hbase-split/ "Hbase 切分策略")
+
+
+golang 微服务汇总
+https://gocn.vip/question/1999
+
+https://zhuanlan.zhihu.com/p/26777189
+
+
+Go42章经
+https://github.com/ffhelicopter/Go42
 
 
 
+es 百亿级优化 
+https://mp.weixin.qq.com/s/UV6NoI6-Y3Zh4BR-m5jP8w
+
+[Golang Blog](https://github.com/EDDYCJY/blog "优秀Golang 博客")
 
 
+es 十亿级搜索优化
+https://zhuanlan.zhihu.com/p/60458049
+
+go micro 实践
+https://github.com/hb-go/micro
+
+华尔街见闻 Golang 微服务实践
+https://zhuanlan.zhihu.com/p/26777189
+
+B 站Golang 微服务实践
+https://blog.csdn.net/RA681t58CJxsgCkJ31/article/details/78333771
+
+Golang Blog
+https://github.com/EDDYCJY/blog/blob/master/golang/crawler/2018-04-28-%E7%88%AC%E8%99%AB%E5%B8%A6%E4%BD%A0%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%8BGolang%E7%9A%84%E5%B8%82%E5%9C%BA%E8%A1%8C%E6%83%85.md
 
 
+open-resty 资源
+https://zhuanlan.zhihu.com/p/61924643?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
+https://github.com/upyun/upyun-resty#checkups
+
+golang context
+https://mp.weixin.qq.com/s?__biz=Mzg5NTEzODk4Mg==&mid=2247483810&idx=1&sn=efa5717fd666e03d2b16935ed1dda051
 
 
+golang 标签结构
+https://mp.weixin.qq.com/s/ueaxNjSmIPZRsqjMCRrJ5w
+
+微服务网关
+https://mp.weixin.qq.com/s/a-aMD4S_NcMxKU1u0Ug_-w
 
 
+golang make new
+https://draveness.me/golang-make-and-new?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io
 
 
-
-
-
-
-
- 
-
-
+golang api-gateway
+https://github.com/fagongzi/gateway
